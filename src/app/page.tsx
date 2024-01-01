@@ -63,7 +63,7 @@ export default function Home() {
               >
                 <div className="md:flex-shrink-0 flex justify-center">
                   <div className="h-16 w-16 flex items-center justify-center rounded-full bg-blue-100 text-blue-900">
-                    {<perk.Icon className="w-1/3 h-1/3" />}
+                    {<perk.Icon className="w-1/2 h-1/2" />}
                   </div>
                 </div>
 
